@@ -21,7 +21,7 @@ var series = {
                     "fantasy": null,
                     "diyidan": null
                 },
-            }
+            },
         }
     },
     "Harrow": {

@@ -24,6 +24,7 @@ function display(name) {
                 $('#table').append('</tr>');
 
             }
+            $('#table').append('<tr height="20px"></tr>');
         }
         // info = list.info;
         // $.get("https://www.omdbapi.com/?i=" + info.imdb + "&apikey=b4796ad7", function (data, status) {
