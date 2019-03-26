@@ -169,6 +169,16 @@ var series = {
                     "fantasy": "https://www.onln.cn/video/list/channel/1051833/0/146",
                     "diyidan": ""
                 },
+            },
+            "S02": {
+                "E01": {
+                    "magnet": "magnet:?xt=urn:btih:eaf3b5925b5841549bca15570c8df6004f433a37&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz",
+                    "ed2k": "ed2k://|file|%E5%BE%B7%E9%87%8C%E5%A5%B3%E5%AD%A9.Derry.Girls.S02E01.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.HDTVrip.720P-ANON.mp4|329493226|82c40538d458a79551197253d024624c|h=vjnne4h3rxu3omna5auu6sccbwnhgl5t|/",
+                    "bd": "https://pan.baidu.com/s/1OlCvDX6qgI0DrYTkeoLz2g",
+                    "bdcode": "83wm",
+                    "fantasy": "",
+                    "diyidan": ""
+                },
             }
         }
     },
