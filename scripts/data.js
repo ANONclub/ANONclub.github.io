@@ -21,6 +21,14 @@ var series = {
                     "fantasy": null,
                     "diyidan": null
                 },
+                "E03": {
+                    "magnet": "magnet:?xt=urn:btih:b4c3e91b80761fb0d0c068e1b2fb61276ed8c213&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz",
+                    "ed2k": "ed2k://|file|%E5%85%AC%E5%85%B3.Flack.S01E03.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.HDTVrip.720P-ANON.mp4|406671909|1158cbfc7d45aa560ff4759a70a027c5|h=b6jzxlhsn6zvhbo3d7xfenwx4gqu4mrj|/",
+                    "bd": "https://pan.baidu.com/s/17nkza8_xU13YjU3luw7f5w",
+                    "bdcode": "fnie",
+                    "fantasy": "",
+                    "diyidan": ""
+                },
             },
         }
     },
