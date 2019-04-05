@@ -187,6 +187,22 @@ var series = {
                     "fantasy": "",
                     "diyidan": ""
                 },
+                "E02": {
+                    "magnet": "magnet:?xt=urn:btih:fe1f2f0eee306ee16e0b42c8ce1e57725b4a7839&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz",
+                    "ed2k": "ed2k://|file|%E5%BE%B7%E9%87%8C%E5%A5%B3%E5%AD%A9.Derry.Girls.S02E02.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.HDTVrip.720P-ANON.mp4|265162270|9e12e62cb3191d554a76ad8451fe6c8e|h=houcgebswa4rkojzam2xmjdxw7zngoqc|/",
+                    "bd": "https://pan.baidu.com/s/1u8XSWbm1Br4DhiDmSY3aLw",
+                    "bdcode": "s5y8",
+                    "fantasy": "",
+                    "diyidan": ""
+                },
+                "E03": {
+                    "magnet": "magnet:?xt=urn:btih:9ddfea96bfc9f2dc8eed0fa1062d7e13a44f6fee&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz",
+                    "ed2k": "ed2k://|file|%E5%BE%B7%E9%87%8C%E5%A5%B3%E5%AD%A9.Derry.Girls.S02E03.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.HDTVrip.720P-ANON.mp4|290186111|5f025634fc051f0a84b2dea5258d5e24|h=ctj7xid4uotrq2ucpixckztcz6fg2x2o|/",
+                    "bd": "https://pan.baidu.com/s/1fwksLrDU9bPsbbng5Kwnqg",
+                    "bdcode": "eyd3",
+                    "fantasy": "",
+                    "diyidan": ""
+                },
             }
         }
     },
