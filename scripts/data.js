@@ -283,7 +283,7 @@ var series = {
                     "fantasy": "",
                     "diyidan": ""
                 },
-                }
+            }
         }
     }
     ,
