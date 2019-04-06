@@ -273,9 +273,20 @@ var series = {
                     "fantasy": "https://www.fantexitv.com/video/list/channel/1929716/0/146",
                     "diyidan": ""
                 },
-            }
+            },
+            "S02": {
+                "E01": {
+                    "magnet": "magnet:?xt=urn:btih:9365c184b562fe1f00b6e13ee3db7a42300bb956&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz",
+                    "ed2k": "ed2k://|file|%E6%9D%80%E6%AD%BB%E4%BC%8A%E8%8A%99.Killing.Eve.S02E01.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.HDTVrip.576P-ANON.mp4|469744355|c37f5f77c825ad1096be19bc13208f51|h=xxn7egntbwn52e6er3vilshwregvupb3|/",
+                    "bd": "https://pan.baidu.com/s/1iMVIe9nNH5Ni_O_3FPgezA",
+                    "bdcode": "6pcq",
+                    "fantasy": "",
+                    "diyidan": ""
+                },
+                }
         }
-    },
+    }
+    ,
     "TheKominskyMethod": {
         "links": {
             "S01": {
