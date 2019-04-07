@@ -12,14 +12,14 @@ function display(name) {
                 if (links[season][ep].ed2k) {
                     $('#table').append('<td style="border:0"><a href="' + links[season][ep].ed2k + '">电驴</a></td>');
                 }
-                if (links[season][ep].bd) {
-                    $('#table').append('<td style="border:0"><a href="' + links[season][ep].bd + '" target="_blank">百度云</a><span>' + (links[season][ep].bdcode?"(提取码：" + links[season][ep].bdcode + ")":"") + "</span>" + '</td>');
+                if (links[season][ep].weiyun) {
+                    $('#table').append('<td style="border:0"><a href="' + links[season][ep].weiyun + '" target="_blank">微云</a></td>');
                 }
-                // if (links[season][ep].fantasy) {
-                //     $('#table').append('<td style="border:0"><a href="' + links[season][ep].fantasy + '" target="_blank">范特西</a></td>');
-                // }
                 if (links[season][ep].diyidan) {
                     $('#table').append('<td style="border:0"><a href="' + links[season][ep].diyidan + '" target="_blank">第一弹</a></td>');
+                }
+                if (links[season][ep].bd) {
+                    $('#table').append('<td style="border:0"><a href="' + links[season][ep].bd + '" target="_blank">百度云</a><span>' + (links[season][ep].bdcode?"(提取码：" + links[season][ep].bdcode + ")":"") + "</span>" + '</td>');
                 }
                 $('#table').append('</tr>');
 
