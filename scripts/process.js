@@ -19,7 +19,7 @@ function display(name) {
                     $('#table').append('<td style="border:0"><a href="' + links[season][ep].diyidan + '" target="_blank">第一弹</a></td>');
                 }
                 if (links[season][ep].bd) {
-                    $('#table').append('<td style="border:0"><a href="' + links[season][ep].bd + '" target="_blank">百度云</a><span>' + (links[season][ep].bdcode?"(提取码：" + links[season][ep].bdcode + ")":"") + "</span>" + '</td>');
+                    $('#table').append('<td style="border:0"><a href="' + links[season][ep].bd + '" target="_blank">百度云</a><span data-clipboard-target="#bdcode' + season + ep + '">' + (links[season][ep].bdcode?'(点此复制：<span id="bdcode' + season + ep + '">' + links[season][ep].bdcode + "</span>)":"") + "</span>" + '</td>');
                 }
                 $('#table').append('</tr>');
 
@@ -37,3 +37,4 @@ function display(name) {
         // })
     })
 }
+var clipboard = new ClipboardJS('span')
