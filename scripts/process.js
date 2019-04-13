@@ -45,6 +45,7 @@ clipboard.on('success', function (e) {
     setTimeout(function () {$('.bdAlert').remove()}, 1500);
 })
 
-clipboard.on('error', function (e) {
-    $("body").append('<div class="bdAlert">复制失败，请手动复制</div>');
-})
+// clipboard.on('error', function (e) {
+//     $("body").append('<div class="bdAlert">复制失败，请手动复制</div>');
+//     setTimeout(function () {$('.bdAlert').remove()}, 1500);
+// })
