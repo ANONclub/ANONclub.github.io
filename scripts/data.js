@@ -289,6 +289,13 @@ var series = {
                     "bdcode": "de4s",
                     "diyidan": "https://www.diyidan.com/main/post/6295053995613691899/detail/1#anchor_comment_floor"
                 },
+                "E02": {
+                    "magnet": "magnet:?xt=urn:btih:efe46991d69a5d957dd372d7b1d61043cd7748f6&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz",
+                    "ed2k": "ed2k://|file|%E6%9D%80%E6%AD%BB%E4%BC%8A%E8%8A%99.Killing.Eve.S02E02.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.HDTVrip.720P-ANON.mp4|487809320|f39d83a4fb0f1887c72ae361e502eea6|h=kz3yfp2d2a6gggm2qkd3rsn3efvlxld3|/",
+                    "bd": "https://pan.baidu.com/s/10qoCS5-WunqUXDe8_va-lQ",
+                    "bdcode": "adxy",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995615409795/detail/1#anchor_comment_floor"
+                },
             }
         }
     }
