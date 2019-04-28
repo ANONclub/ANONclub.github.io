@@ -3,6 +3,7 @@ function display(name) {
     $(document).ready(function () {
         links = list.links;
         for (season in links) {
+            // $('#table').append('<div>' + season + '</div>')
             for (ep in links[season]) {
                 $('#table').append('<tr style="border:0">');
                 $('#table').append('<td style="border:0">' + season + ep + '</td>');
