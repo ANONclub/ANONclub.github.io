@@ -299,8 +299,8 @@ var series = {
                 "E03": {
                     "magnet": "magnet:?xt=urn:btih:8989962144ec3ea7572f6d71d4fb2dc383eda624&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz",
                     "ed2k": "ed2k://|file|%E6%9D%80%E6%AD%BB%E4%BC%8A%E8%8A%99.Killing.Eve.S02E03.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.WEB.720P-ANON.mp4|632905723|3b6aaab193077da4978dc6acf4a72bf8|h=5skyinislmlj5hfp6jsz6ndxxtfspbxr|/",
-                    "bd": "https://pan.baidu.com/s/1yjoDt2lZzNFxlGPaeeC1jQ",
-                    "bdcode": "a69e",
+                    "bd": "https://pan.baidu.com/s/1h1p407a6AF1ZttN07gG0Xg",
+                    "bdcode": "uucu",
                     "diyidan": "https://www.diyidan.com/main/post/6295053995618517062/detail/1#anchor_comment_floor"
                 },
                 "E04": {
