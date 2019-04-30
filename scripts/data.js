@@ -304,12 +304,13 @@ var series = {
                     "diyidan": "https://www.diyidan.com/main/post/6295053995618517062/detail/1#anchor_comment_floor"
                 },
                 "E04": {
-                    "magnet": "magnet:?xt=urn:btih:0c7cc7d3bddfd729550675bcdcd30b2bd0592908&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz",
-                    "ed2k": "ed2k://|file|%E6%9D%80%E6%AD%BB%E4%BC%8A%E8%8A%99.Killing.Eve.S02E04.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.WEB.720P-ANON.mp4|608629002|cff406e4b04efbf41b7949febd2a5977|h=qgkz24zhk73apmlg25jy4dd465tfrviv|/",
-                    "bd": "https://pan.baidu.com/s/1qdJASIX50M_Z-ecCJmcKRQ",
-                    "bdcode": "yk6u",
-                    "diyidan": "https://www.diyidan.com/main/post/6295053995620938063/detail/1#anchor_comment_floor"
+                    "magnet": "magnet:?xt=urn:btih:918e9f3f1d9ce6d5eb8f713e5e6c5f62e1f3ea00&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz",
+                    "ed2k": "ed2k://|file|%E6%9D%80%E6%AD%BB%E4%BC%8A%E8%8A%99.Killing.Eve.S02E04.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.WEB.720P-ANON.V2.mp4|608629696|2ce4d37f3501be9c0b0a5cb9c1ae8b41|h=zu33gzrhmtfl5ixob54zgs5xjkarjwjk|/",
+                    "bd": "https://pan.baidu.com/s/1jN3F2ZlBORAtZmeo7dQNaw",
+                    "bdcode": "hpji",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995620978138/detail/1#anchor_comment_floor"
                 },
+
             }
         }
     }
