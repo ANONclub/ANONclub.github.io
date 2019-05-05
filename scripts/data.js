@@ -816,6 +816,13 @@ var series = {
             },
         }
     },
+    "StateOfTheUnion": {
+        "links": {
+            "S01": {
+                
+            },
+        }
+    },
     "template": {
         "links": {
             "S01": {
