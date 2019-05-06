@@ -311,11 +311,11 @@ var series = {
                     "diyidan": "https://www.diyidan.com/main/post/6295053995620978138/detail/1#anchor_comment_floor"
                 },
                 "E05": {
-                    "magnet": "magnet:?xt=urn:btih:b561bc36d01b6b4e6b4d291c4063d0793b474017&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz",
-                    "ed2k": "ed2k://|file|%E6%9D%80%E6%AD%BB%E4%BC%8A%E8%8A%99.Killing.Eve.S02E05.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.HDTVrip.720P-ANON.mp4|398797896|27da04a084d26b22d9974b8fd4b97824|h=i6bv6sevpiovue3bxggrr2svqcnnokpd|/",
-                    "bd": "https://pan.baidu.com/s/1NNJ56Z4j21CgHdOYoPHGSA",
-                    "bdcode": "vxn5",
-                    "diyidan": "https://www.diyidan.com/main/post/6295053995623050223/detail/1#anchor_comment_floor"
+                    "magnet": "magnet:?xt=urn:btih:9e017c21c1a98c511a20151dc878acbd31c6c85d&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz",
+                    "ed2k": "ed2k://|file|%E6%9D%80%E6%AD%BB%E4%BC%8A%E8%8A%99.Killing.Eve.S02E05.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.WEB.720P-ANON.mp4|614935354|462c53ec3583f3162317ee1e40c3b151|h=6uqkhmkffb3npnsvuz65xkx5mt2pe3o6|/",
+                    "bd": "https://pan.baidu.com/s/1j81VlnVGfAy6IaAMrrr9IQ",
+                    "bdcode": "7tvc",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995623914843/detail/1#anchor_comment_floor"
                 },
             }
         }
