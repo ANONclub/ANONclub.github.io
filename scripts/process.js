@@ -42,8 +42,11 @@ var clipboard = new ClipboardJS('span')
 
 clipboard.on('success', function (e) {
     // alert('已复制' + e.text)
-    $("body").append('<div class="bdAlert">已复制：' + e.text + '</div>');
-    setTimeout(function () {$('.bdAlert').remove()}, 1500);
+    // $("body").append('<div class="bdAlert">已复制：' + e.text + '</div>');
+    // setTimeout(function () {$('.bdAlert').remove()}, 1500);
+    mdui.snackbar({
+        message: '已复制：' + e.text
+    });
 })
 
 // clipboard.on('error', function (e) {
