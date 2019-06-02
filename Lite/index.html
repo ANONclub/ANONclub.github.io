@@ -19,18 +19,7 @@
             <div class="mdui-col"><div style="background-color: red;">b</div></div>
             <div class="mdui-col"><div style="background-color: yellow;">a</div></div> -->
         </div>
-
-
-        
-
-
-
-
-
-
-
     </div>
-    
     <script src="./js/mdui.js"></script>
     <script src="./js/data.js"></script>
     <script>
@@ -40,50 +29,78 @@
             var col = document.createElement('div');
             col.setAttribute('class', 'mdui-col');
             col.setAttribute('id', item);
+
             var card = document.createElement('div');
             card.setAttribute('class', 'mdui-card mdui-ripple');
             card.setAttribute('style', 'margin-bottom: 4px;');
+
             var media = document.createElement('div');
             media.setAttribute('class', 'mdui-card-media');
+
             var img = document.createElement('img');
             if (series[item].info.poster) {
                 img.setAttribute('src', series[item].info.poster);
             }
             else img.setAttribute('src', 'card.jpg');
+
             media.append(img);
             card.append(media);
+
             var primary = document.createElement('div');
             primary.setAttribute('class', 'mdui-card-primary');
+
             var title = document.createElement('div');
             title.setAttribute('class', 'mdui-card-primary-title');
             title.innerHTML = series[item].info.title;
+
             primary.append(title);
             card.append(primary);
             col.append(card);
+
             document.querySelector('#container').append(col);
+
             var dialog = document.createElement('div');
             dialog.setAttribute('class', 'mdui-dialog');
             dialog.setAttribute('id', item + 'Dialog');
+
             var dialogTitle = document.createElement('div');
             dialogTitle.setAttribute('class', 'mdui-dialog-title');
             dialogTitle.innerHTML = series[item].info.title;
             dialog.append(dialogTitle);
+
             var dialogContent = document.createElement('div');
             dialogContent.setAttribute('class', 'mdui-dialog-content');
+
             var tabs = document.createElement('div');
             tabs.setAttribute('mdui-tab', null);
-            tabs.setAttribute('class', 'mdui-tab');
+            tabs.setAttribute('class', 'mdui-tab mdui-tab-full-width');
+
             var magnet = document.createElement('a');
             magnet.setAttribute('href', '#' + item + '-magnet');
             magnet.setAttribute('class', 'mdui-ripple');
-            magnet.innerHTML = 'MAGNET';
+            magnet.innerHTML = '磁力';
             tabs.append(magnet);
+
             var ed2k = document.createElement('a');
             ed2k.setAttribute('href', '#' + item + '-ed2k');
             ed2k.setAttribute('class', 'mdui-ripple');
-            ed2k.innerHTML = 'ED2K';
+            ed2k.innerHTML = '电驴';
             tabs.append(ed2k);
+
+            var dyd = document.createElement('a');
+            dyd.setAttribute('href', '#' + item + '-dyd');
+            dyd.setAttribute('class', 'mdui-ripple');
+            dyd.innerHTML = '第一弹';
+            tabs.append(dyd);
+
+            var bdy = document.createElement('a');
+            bdy.setAttribute('href', '#' + item + '-bdy');
+            bdy.setAttribute('class', 'mdui-ripple');
+            bdy.innerHTML = '百度云';
+            tabs.append(bdy);
+
             dialogContent.append(tabs);
+
             var magnetLinks = document.createElement('div');
             magnetLinks.setAttribute('id', item + '-magnet');
             dialogContent.append(magnetLinks);
@@ -92,20 +109,63 @@
             ed2kLinks.setAttribute('id', item + '-ed2k');
             dialogContent.append(ed2kLinks);
 
+            var dydLinks = document.createElement('div');
+            dydLinks.setAttribute('id', item + '-dyd');
+            dialogContent.append(dydLinks);
+
+            var bdyLinks = document.createElement('div');
+            bdyLinks.setAttribute('id', item + '-bdy');
+            dialogContent.append(bdyLinks);
+
             for (season in series[item].links) {
                 for (ep in series[item].links[season]) {
 
                     // console.log(item + season + ep);
-                    var magnetLink = document.createElement('div');
-                    magnetLink.innerHTML = '<a href="' + series[item].links[season][ep].magnet + '">' + season + ep + '</a>';
+                    var magnetLink = document.createElement('p');
                     magnetLinks.append(magnetLink);
+                    var magnetChild = document.createElement('a');
+                    magnetChild.innerHTML = season + ep;
+                    if (series[item].links[season][ep].magnet) {
+                        magnetChild.setAttribute('href', series[item].links[season][ep].magnet);
+                    }
+                    magnetLink.append(magnetChild);
 
-                    var ed2kLink = document.createElement('div');
-                    ed2kLink.innerHTML = '<a href="' + series[item].links[season][ep].ed2k + '">' + season + ep + '</a>';
+                    var ed2kLink = document.createElement('p');
                     ed2kLinks.append(ed2kLink);
+                    var ed2kChild = document.createElement('a');
+                    ed2kChild.innerHTML = season + ep;
+                    if (series[item].links[season][ep].ed2k) {
+                        ed2kChild.setAttribute('href', series[item].links[season][ep].ed2k); 
+                    }
+                    ed2kLink.append(ed2kChild);
+
+                    var dydLink = document.createElement('p');
+                    dydLinks.append(dydLink);
+                    var dydChild = document.createElement('a');
+                    dydChild.innerHTML = season + ep;
+                    if (series[item].links[season][ep].diyidan) {
+                        dydChild.setAttribute('href', series[item].links[season][ep].diyidan);
+                        dydChild.setAttribute('target', '_blank');
+                    }
+                    dydLink.append(dydChild);
+
+                    var bdyLink = document.createElement('p');
+                    bdyLinks.append(bdyLink);
+                    var bdyChild = document.createElement('a');
+                    bdyChild.innerHTML = season + ep;
+                    if (series[item].links[season][ep].bd) {
+                        bdyChild.setAttribute('href', series[item].links[season][ep].bd);
+                        bdyChild.setAttribute('target', '_blank');
+                    }
+                    bdyLink.append(bdyChild);
+                    if (series[item].links[season][ep].bdcode) {
+                        var bdCode = document.createElement('span');
+                        bdCode.setAttribute('style', 'margin-left: 10px;');
+                        bdCode.innerHTML =  series[item].links[season][ep].bdcode;
+                        bdyLink.append(bdCode);
+                    }
                 }
             }
-            
             dialog.append(dialogContent);
             document.querySelector('#container').append(dialog);
             col.setAttribute('onclick', 'var inst = new mdui.Dialog("#' + item + 'Dialog");inst.open();');
