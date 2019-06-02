@@ -340,8 +340,7 @@ var series = {
                 },
             }
         }
-    }
-    ,
+    },
     "TheKominskyMethod": {
         "links": {
             "S01": {
