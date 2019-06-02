@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ANON SUBS</title>
+    <link rel="stylesheet" href="./css/mdui.css">
+</head>
+<body class="mdui-theme-primary-blue mdui-theme-accent-pink mdui-theme-layout-dark">
+    <div class="mdui-appbar">
+        <div class="mdui-toolbar mdui-color-theme">
+            <div class="mdui-typo-headline">ANON<sup>Lite</sup></div>
+        </div>
+    </div>
+    <div class="mdui-container">
+        <div class="mdui-row-xs-1 mdui-row-sm-3 mdui-grid-list" id="container">
+            <!-- <div class="mdui-col"><div style="background-color: green;">a</div></div>
+            <div class="mdui-col"><div style="background-color: red;">b</div></div>
+            <div class="mdui-col"><div style="background-color: yellow;">a</div></div> -->
+        </div>
+
+
+        
+
+
+
+
+
+
+
+    </div>
+    
+    <script src="./js/mdui.js"></script>
+    <script src="./js/data.js"></script>
+    <script>
+        var $$ = mdui.JQ;
+        for (var item in series) {
+            if (item === 'template') continue;
+            serie = series[item];
+            var col = document.createElement('div');
+            col.setAttribute('class', 'mdui-col');
+            var card = document.createElement('div');
+            card.setAttribute('class', 'mdui-card mdui-ripple');
+            card.setAttribute('style', 'margin-bottom: 4px;');
+            var media = document.createElement('div');
+            media.setAttribute('class', 'mdui-card-media');
+            var img = document.createElement('img');
+            if (series[item].info.poster) {
+                // img.setAttribute('src', series[item].info.poster);
+                img.setAttribute('src', 'card.jpg');
+            }
+            else img.setAttribute('src', 'card.jpg');
+            media.append(img);
+            card.append(media);
+            var primary = document.createElement('div');
+            primary.setAttribute('class', 'mdui-card-primary');
+            var title = document.createElement('div');
+            title.setAttribute('class', 'mdui-card-primary-title');
+            title.innerHTML = item;
+            primary.append(title);
+            card.append(primary);
+            var actions = document.createElement('div');
+            actions.setAttribute('class', 'mdui-card-actions');
+            var floatRight = document.createElement('button');
+            floatRight.setAttribute('class', '"mdui-btn mdui-btn-icon mdui-float-right');
+            var expand = document.createElement('i');
+            expand.setAttribute('class', 'mdui-icon material-icons');
+            expand.innerHTML = 'expand_more';
+            floatRight.append(expand);
+            actions.append(floatRight);
+            card.append(actions);
+            col.append(card);
+            document.querySelector('#container').append(col);
+
+        }
+    </script>
+</body>
+</html>
