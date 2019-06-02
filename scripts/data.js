@@ -122,7 +122,7 @@ var series = {
                     "fantasy": "https://www.onln.cn/video/list/channel/1885660/0/146",
                     "diyidan": null
                 },
-                "E010": {
+                "E10": {
                     "magnet": "magnet:?xt=urn:btih:80b33c703814096e75eed627df8fa795fbcd44ee&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz",
                     "ed2k": "ed2k://|file|%E7%A5%9E%E7%A7%98%E6%B3%95%E5%8C%BB.Harrow.S01E10.End.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.WEBrip.720P-LOT.mp4|617180474|e79fcf99552f26ab4839f5bf76a08ccc|h=7dfsrrngdykearq36frb2cf7hhtmkcnp|/",
                     "bd": "https://pan.baidu.com/s/1V7R2BOSb9-ZdRZJ-GL0LYw",

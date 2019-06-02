@@ -7,14 +7,14 @@
     <title>ANON SUBS</title>
     <link rel="stylesheet" href="./css/mdui.css">
 </head>
-<body class="mdui-theme-primary-blue mdui-theme-accent-pink mdui-theme-layout-dark">
+<body class="mdui-theme-primary-blue mdui-theme-accent-pink">
     <div class="mdui-appbar">
         <div class="mdui-toolbar mdui-color-theme">
             <div class="mdui-typo-headline">ANON<sup>Lite</sup></div>
         </div>
     </div>
     <div class="mdui-container">
-        <div class="mdui-row-xs-1 mdui-row-sm-3 mdui-grid-list" id="container">
+        <div class="mdui-row-xs-1 mdui-row-sm-4 mdui-grid-list" id="container">
             <!-- <div class="mdui-col"><div style="background-color: green;">a</div></div>
             <div class="mdui-col"><div style="background-color: red;">b</div></div>
             <div class="mdui-col"><div style="background-color: yellow;">a</div></div> -->
@@ -37,9 +37,9 @@
         var $$ = mdui.JQ;
         for (var item in series) {
             if (item === 'template') continue;
-            serie = series[item];
             var col = document.createElement('div');
             col.setAttribute('class', 'mdui-col');
+            col.setAttribute('id', item);
             var card = document.createElement('div');
             card.setAttribute('class', 'mdui-card mdui-ripple');
             card.setAttribute('style', 'margin-bottom: 4px;');
@@ -47,8 +47,7 @@
             media.setAttribute('class', 'mdui-card-media');
             var img = document.createElement('img');
             if (series[item].info.poster) {
-                // img.setAttribute('src', series[item].info.poster);
-                img.setAttribute('src', 'card.jpg');
+                img.setAttribute('src', series[item].info.poster);
             }
             else img.setAttribute('src', 'card.jpg');
             media.append(img);
@@ -57,22 +56,59 @@
             primary.setAttribute('class', 'mdui-card-primary');
             var title = document.createElement('div');
             title.setAttribute('class', 'mdui-card-primary-title');
-            title.innerHTML = item;
+            title.innerHTML = series[item].info.title;
             primary.append(title);
             card.append(primary);
-            var actions = document.createElement('div');
-            actions.setAttribute('class', 'mdui-card-actions');
-            var floatRight = document.createElement('button');
-            floatRight.setAttribute('class', '"mdui-btn mdui-btn-icon mdui-float-right');
-            var expand = document.createElement('i');
-            expand.setAttribute('class', 'mdui-icon material-icons');
-            expand.innerHTML = 'expand_more';
-            floatRight.append(expand);
-            actions.append(floatRight);
-            card.append(actions);
             col.append(card);
             document.querySelector('#container').append(col);
+            var dialog = document.createElement('div');
+            dialog.setAttribute('class', 'mdui-dialog');
+            dialog.setAttribute('id', item + 'Dialog');
+            var dialogTitle = document.createElement('div');
+            dialogTitle.setAttribute('class', 'mdui-dialog-title');
+            dialogTitle.innerHTML = series[item].info.title;
+            dialog.append(dialogTitle);
+            var dialogContent = document.createElement('div');
+            dialogContent.setAttribute('class', 'mdui-dialog-content');
+            var tabs = document.createElement('div');
+            tabs.setAttribute('mdui-tab', null);
+            tabs.setAttribute('class', 'mdui-tab');
+            var magnet = document.createElement('a');
+            magnet.setAttribute('href', '#' + item + '-magnet');
+            magnet.setAttribute('class', 'mdui-ripple');
+            magnet.innerHTML = 'MAGNET';
+            tabs.append(magnet);
+            var ed2k = document.createElement('a');
+            ed2k.setAttribute('href', '#' + item + '-ed2k');
+            ed2k.setAttribute('class', 'mdui-ripple');
+            ed2k.innerHTML = 'ED2K';
+            tabs.append(ed2k);
+            dialogContent.append(tabs);
+            var magnetLinks = document.createElement('div');
+            magnetLinks.setAttribute('id', item + '-magnet');
+            dialogContent.append(magnetLinks);
 
+            var ed2kLinks = document.createElement('div');
+            ed2kLinks.setAttribute('id', item + '-ed2k');
+            dialogContent.append(ed2kLinks);
+
+            for (season in series[item].links) {
+                for (ep in series[item].links[season]) {
+
+                    // console.log(item + season + ep);
+                    var magnetLink = document.createElement('div');
+                    magnetLink.innerHTML = '<a href="' + series[item].links[season][ep].magnet + '">' + season + ep + '</a>';
+                    magnetLinks.append(magnetLink);
+
+                    var ed2kLink = document.createElement('div');
+                    ed2kLink.innerHTML = '<a href="' + series[item].links[season][ep].ed2k + '">' + season + ep + '</a>';
+                    ed2kLinks.append(ed2kLink);
+                }
+            }
+            
+            dialog.append(dialogContent);
+            document.querySelector('#container').append(dialog);
+            col.setAttribute('onclick', 'var inst = new mdui.Dialog("#' + item + 'Dialog");inst.open();');
         }
     </script>
 </body>
