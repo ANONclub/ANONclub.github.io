@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>ANON SUBS</title>
+    <title>ANON SUBS LITE</title>
     <link rel="stylesheet" href="./css/mdui.css">
 </head>
 <body class="mdui-theme-primary-blue mdui-theme-accent-pink mdui-appbar-with-toolbar">
     <div class="mdui-appbar mdui-appbar-fixed">
         <div class="mdui-toolbar mdui-color-theme">
-            <div class="mdui-typo-headline">ANON<sup>Lite</sup></div>
+            <div class="mdui-typo-headline">ANON匿名字幕组<sup>Lite</sup></div>
         </div>
     </div>
     <div class="mdui-container">
@@ -53,7 +53,12 @@
             title.setAttribute('class', 'mdui-card-primary-title');
             title.innerHTML = series[item].info.title;
 
+            var subtitle = document.createElement('div');
+            subtitle.setAttribute('class', 'mdui-card-primary-subtitle');
+            subtitle.innerHTML = series[item].info.subtitle;
+
             primary.append(title);
+            primary.append(subtitle);
             card.append(primary);
             col.append(card);
 
@@ -115,6 +120,7 @@
 
             var bdyLinks = document.createElement('div');
             bdyLinks.setAttribute('id', item + '-bdy');
+            // bdyLinks.setAttribute('class', 'mdui-typo');
             dialogContent.append(bdyLinks);
 
             for (season in series[item].links) {
@@ -159,7 +165,7 @@
                     }
                     bdyLink.append(bdyChild);
                     if (series[item].links[season][ep].bdcode) {
-                        var bdCode = document.createElement('span');
+                        var bdCode = document.createElement('strong');
                         bdCode.setAttribute('style', 'margin-left: 10px;');
                         bdCode.innerHTML =  series[item].links[season][ep].bdcode;
                         bdyLink.append(bdCode);

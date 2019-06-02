@@ -2,7 +2,8 @@ var series = {
     "KillingEve": {
         "info": {
             "poster": "./posters/KE S2web.jpg",
-            "title": "杀死伊芙"
+            "title": "杀死伊芙",
+            "subtitle": "Killing Eve"
         },
         "links": {
             "S01": {
@@ -135,7 +136,8 @@ var series = {
         "info": {
             "imdb": "tt8128344",
             "poster": "./posters/公关.jpg",
-            "title": "公关危机"
+            "title": "公关危机",
+            "subtitle": "Flack"
         },
         "links": {
             "S01": {
@@ -184,7 +186,8 @@ var series = {
     "TheKominskyMethod": {
         "info": {
             "poster": "./posters/柯明斯基理论 第一季.jpg",
-            "title": "柯明斯基理论"
+            "title": "柯明斯基理论",
+            "subtitle": "The Kominsky Method"
         },
         "links": {
             "S01": {
@@ -258,7 +261,8 @@ var series = {
     "Harrow": {
         "info": {
             "poster": "./posters/神秘法医 第二季s.jpg",
-            "title": "神秘法医"
+            "title": "神秘法医",
+            "subtitle": "Harrow"
         },
         "links": {
             "S01": {
@@ -348,7 +352,8 @@ var series = {
     "DeepState": {
         "info": {
             "poster": "./posters/深暗势力  第一季.jpg",
-            "title": "深暗势力"
+            "title": "深暗势力",
+            "subtitle": "Deep State"
         },
         "links": {
             "S01": {
@@ -422,7 +427,8 @@ var series = {
     "DerryGirls": {
         "info": {
             "poster": "./posters/德里女孩.jpg",
-            "title": "德里女孩"
+            "title": "德里女孩",
+            "subtitle": "Derry Girls"
         },
         "links": {
             "S01": {
@@ -506,7 +512,8 @@ var series = {
     "Wayne": {
         "info": {
             "poster": "./posters/韦恩  第一季.jpg",
-            "title": "韦恩"
+            "title": "韦恩",
+            "subtitle": "Wayne"
         },
         "links": {
             "S01": {
@@ -596,7 +603,8 @@ var series = {
     "Thomas14": {
         "info": {
             "poster": "./posters/托马斯14.jpg",
-            "title": "托马斯14"
+            "title": "托马斯14",
+            "subtitle": "Thomas 14"
         },
         "links": {
             "迷你剧": {
@@ -629,9 +637,9 @@ var series = {
     },
     "ManInAnOrangeShirt": {
         "info": {
-            "poster": "./posters/橘衫男子.jpg"
-            ,
-            "title": "橘衫男子"
+            "poster": "./posters/橘衫男子.jpg",
+            "title": "橘衫男子",
+            "subtitle": "Man In An Orange Shirt"
         },
         "links": {
             "迷你剧": {
@@ -657,7 +665,8 @@ var series = {
     "TheEndofTheFuckingWorld": {
         "info": {
             "poster": "./posters/去他妈的世界 第一季.jpg",
-            "title": "去他妈的世界"
+            "title": "去他妈的世界",
+            "subtitle": "The End of The Fucking World"
         },
         "links": {
             "S01": {
@@ -731,7 +740,8 @@ var series = {
     "TheYoungPope": {
         "info": {
             "poster": "./posters/年轻的教宗 第一季 中文.jpg",
-            "title": "年轻的教宗"
+            "title": "年轻的教宗",
+            "subtitle": "The Young Pope"
         },
         "links": {
             "S01": {
@@ -821,7 +831,8 @@ var series = {
     "Undercover": {
         "info": {
             "poster": "./posters/卧底丑闻.jpg",
-            "title": "卧底丑闻"
+            "title": "卧底丑闻",
+            "subtitle": "Undercover"
         },
         "links": {
             "迷你剧": {
@@ -879,7 +890,8 @@ var series = {
     "BackToLife": {
         "info": {
             "poster": "./posters/重拾人生 第一季600800.jpg",
-            "title": "重拾人生"
+            "title": "重拾人生",
+            "subtitle": "Back to Life"
         },
         "links": {
             "S01": {
@@ -890,7 +902,8 @@ var series = {
     "StateOfTheUnion": {
         "info": {
             "poster": "./posters/婚情咨文 第一季s.jpg",
-            "title": "婚情咨文"
+            "title": "婚情咨文",
+            "subtitle": "State of The Union"
         },
         "links": {
             "S01": {
