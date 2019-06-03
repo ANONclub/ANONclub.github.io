@@ -50,11 +50,11 @@
             primary.setAttribute('class', 'mdui-card-primary');
 
             var title = document.createElement('div');
-            title.setAttribute('class', 'mdui-card-primary-title');
+            title.setAttribute('class', 'mdui-card-primary-title mdui-text-truncate');
             title.innerHTML = series[item].info.title;
 
             var subtitle = document.createElement('div');
-            subtitle.setAttribute('class', 'mdui-card-primary-subtitle');
+            subtitle.setAttribute('class', 'mdui-card-primary-subtitle mdui-text-truncate');
             subtitle.innerHTML = series[item].info.subtitle;
 
             primary.append(title);
