@@ -832,15 +832,54 @@ var series = {
     "BackToLife": {
         "links": {
             "S01": {
-                
+
             },
         }
     },
     "StateOfTheUnion": {
         "links": {
             "S01": {
-                
+
             },
+        }
+    },
+    "ThisWayUp": {
+        "links": {
+            "S01": {
+                "E01": {
+                    "magnet": "magnet:?xt=urn:btih:465C19350DDD9AC1ABE8EF4C77981F604C8A2334",
+                    "ed2k": "ed2k://|file|生活向上.This.Way.Up.S01E01.中英字幕.HDTVrip.720P-ANON.mp4|288407891|F0B03D7A1DA847FDE0A6DDE0B2660C52|h=2J3GQPR766YYBVCN4ILGIKAGB64O23IO|/",
+                    "bd": "https://pan.baidu.com/s/1NctnoWBuszmqNfyI37ggkA",
+                    "bdcode": "k2jc",
+                    "diyidan": ""
+                },
+                //     "E02": {
+                //         "magnet": "",
+                //         "ed2k": "",
+                //         "bd": "",
+                //         "bdcode": "",
+                //         "fantasy": "",
+                //         "diyidan": ""
+                //     },
+            },
+            // "S02": {
+            //     "E01": {
+            //         "magnet": "",
+            //         "ed2k": "",
+            //         "bd": "",
+            //         "bdcode": "",
+            //         "fantasy": "",
+            //         "diyidan": ""
+            //     },
+            //     "E02": {
+            //         "magnet": "",
+            //         "ed2k": "",
+            //         "bd": "",
+            //         "bdcode": "",
+            //         "fantasy": "",
+            //         "diyidan": ""
+            //     },
+            // },
         }
     },
     "template": {
