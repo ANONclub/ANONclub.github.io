@@ -851,7 +851,8 @@ var series = {
                     "ed2k": "ed2k://|file|生活向上.This.Way.Up.S01E01.中英字幕.HDTVrip.720P-ANON.mp4|288407891|F0B03D7A1DA847FDE0A6DDE0B2660C52|h=2J3GQPR766YYBVCN4ILGIKAGB64O23IO|/",
                     "bd": "https://pan.baidu.com/s/1NctnoWBuszmqNfyI37ggkA",
                     "bdcode": "k2jc",
-                    "diyidan": "https://www.diyidan.com/main/post/6295053995665372983/detail/1#anchor_comment_floor"
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995665372983/detail/1#anchor_comment_floor",
+                    "sub": "https://dl1.subhd.tv/sub/2019/08/156583971238439.zip"
                 },
                 //     "E02": {
                 //         "magnet": "",
@@ -884,24 +885,24 @@ var series = {
     },
     "WhyWomenKill": {
         "links": {
-            // "S01": {
-            //     "E01": {
-            //         "magnet": "",
-            //         "ed2k": "",
-            //         "bd": "",
-            //         "bdcode": "",
-            //         "fantasy": "",
-            //         "diyidan": ""
-            //     },
-            //     "E02": {
-            //         "magnet": "",
-            //         "ed2k": "",
-            //         "bd": "",
-            //         "bdcode": "",
-            //         "fantasy": "",
-            //         "diyidan": ""
-            //     },
-            // },
+            "S01": {
+                "E01": {
+                    "magnet": "magnet:?xt=urn:btih:8940F7F95F84C9EE21A663E48E6C7B675C6CCF41",
+                    "ed2k": "ed2k://|file|致命女人.Why.Women.Kill.S01E01.中英字幕.WEBrip.720P-ANON.mp4|591766796|A18972C61E674155ED89A8821CE7C0DA|h=F3KVFYHIUZOI4CAKQSZEF5KJC5ADOZYY|/",
+                    "bd": "https://pan.baidu.com/s/1oEywgL7_dWnjqxTkAbFKSw",
+                    "bdcode": "6fat",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995665605283/detail/1#anchor_comment_floor",
+                    "sub": "https://dl.subhd.tv/sub/2019/08/156595200338439.zip"
+                },
+                // "E02": {
+                //     "magnet": "",
+                //     "ed2k": "",
+                //     "bd": "",
+                //     "bdcode": "",
+                //     "fantasy": "",
+                //     "diyidan": ""
+                // },
+            },
             // "S02": {
             //     "E01": {
             //         "magnet": "",
