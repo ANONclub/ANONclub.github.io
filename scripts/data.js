@@ -889,8 +889,8 @@ var series = {
                 "E01": {
                     "magnet": "magnet:?xt=urn:btih:8940F7F95F84C9EE21A663E48E6C7B675C6CCF41",
                     "ed2k": "ed2k://|file|致命女人.Why.Women.Kill.S01E01.中英字幕.WEBrip.720P-ANON.mp4|591766796|A18972C61E674155ED89A8821CE7C0DA|h=F3KVFYHIUZOI4CAKQSZEF5KJC5ADOZYY|/",
-                    "bd": "https://pan.baidu.com/s/1oEywgL7_dWnjqxTkAbFKSw",
-                    "bdcode": "6fat",
+                    "bd": "https://pan.baidu.com/s/1RD8NjZzbYr1TJO1Z0zvkAA",
+                    "bdcode": "zauq",
                     "diyidan": "https://www.diyidan.com/main/post/6295053995665605283/detail/1#anchor_comment_floor",
                     "sub": "https://dl.subhd.tv/sub/2019/08/156595200338439.zip"
                 },
