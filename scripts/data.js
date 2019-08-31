@@ -902,6 +902,14 @@ var series = {
                     "diyidan": "https://www.diyidan.com/main/post/6295053995667144608/detail/1#anchor_comment_floor",
                     "sub": "https://dl.subhd.tv/sub/2019/08/156648243138439.zip"
                 },
+                "E03": {
+                    "magnet": "magnet:?xt=urn:btih:D1EE0B249B586ED5846BF85A46E858EF03F9BD3C",
+                    "ed2k": "ed2k://|file|致命女人.Why.Women.Kill.S01E03.中英字幕.WEBrip.720P-ANON.mp4|556933718|4F0474805160279B1239F7E1EF2CE09D|h=FSSS7GJ2S2AKTV3WX2NLVWM374XMRZ3R|/",
+                    "bd": "https://pan.baidu.com/s/1SUFHYA-ZHEdrdtFgUCS7Vw",
+                    "bdcode": "7jex",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995668876989/detail/1#anchor_comment_floor",
+                    "sub": "/static/WWK/Why.Women.Kill.S01E03.1080p.CBS.WEB-DL.AAC2.0.x264-BTN.zip"
+                },
             },
             // "S02": {
             //     "E01": {
