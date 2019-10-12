@@ -897,7 +897,7 @@ var series = {
                 "E02": {
                     "magnet": "magnet:?xt=urn:btih:1FA20E640F966293CB5AB8A70C5D74317B0C6DC2",
                     "ed2k": "ed2k://|file|致命女人.Why.Women.Kill.S01E02.中英字幕.WEBrip.720P-ANON.mp4|580543525|8646B590989552A8CA7E9CD3AC33EAFA|h=W6GXOXV5YURWVFI4MGJ4JP36FSALK6O4|/",
-                    "bd": "https://pan.baidu.com/s/1FDwZChxrmtnBtqAHQnvV3g",
+                    "bd": "https://pan.baidu.com/s/1FDwZChxrmtnBtqAHQnhe'xvV3g",
                     "bdcode": "dqaw",
                     "diyidan": "https://www.diyidan.com/main/post/6295053995667144608/detail/1#anchor_comment_floor",
                     "sub": "https://dl.subhd.tv/sub/2019/08/156648243138439.zip"
@@ -969,6 +969,20 @@ var series = {
             //         "diyidan": ""
             //     },
             // },
+        }
+    },
+    "TheBirch": {
+        "links": {
+            "S01": {
+                "E01": {
+                    "magnet": "magnet:?xt=urn:btih:8980A1BE4D6AA2060EE62D155E042A61FE7F2C34",
+                    "ed2k": "ed2k://|file|白桦树.The.Birch.S01E01.中英字幕.WEBrip.720P-ANON.mp4|205007539|21B3E4E857CFC63B5561E8CD05BCAEEA|h=QWLH3Q2KG7WFC4DWQYH4MCQ2HQYHEYV2|/ ​​​​",
+                    "bd": "https://pan.baidu.com/s/1GJW40L2UxlLAV8H3Xbg9Qw",
+                    "bdcode": "vnsg",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995676172827/detail/1#anchor_comment_floor",
+                    "sub": ""
+                },
+            }
         }
     },
     "template": {
