@@ -980,8 +980,16 @@ var series = {
                     "bd": "https://pan.baidu.com/s/1GJW40L2UxlLAV8H3Xbg9Qw",
                     "bdcode": "vnsg",
                     "diyidan": "https://www.diyidan.com/main/post/6295053995676172827/detail/1#anchor_comment_floor",
-                    "sub": ""
+                    "sub": "/static/TB/The.Birch.S01E01.Through.The.Woods.1080p.FBW.WEB-DL.AAC2.0.H.264-FBW.zip"
                 },
+                "E02": {
+                    "magnet": "magnet:?xt=urn:btih:AE6941DCAFD78A63A7607E395DEF884DC04B506F",
+                    "ed2k": "ed2k://|file|白桦树.The.Birch.S01E02.中英字幕.WEBrip.720P-ANON.V2.mp4|157550149|158580310DC25933AEC558111F018CFD|h=RBUFIPKDBVWBFP6LI2N5JEF3G44AASDF|/",
+                    "bd": "https://pan.baidu.com/s/1CMLLJVB3H69Dtx8FmoRSUQ",
+                    "bdcode": "5ais",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995676401286/detail/1#anchor_comment_floor",
+                    "sub": "/static/TB/The.Birch.S01E02.Postpartum.1080p.FBW.WEB-DL.AAC2.0.H.264-FBW.zip"
+                }
             }
         }
     },
