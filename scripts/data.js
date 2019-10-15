@@ -989,7 +989,15 @@ var series = {
                     "bdcode": "5ais",
                     "diyidan": "https://www.diyidan.com/main/post/6295053995676401286/detail/1#anchor_comment_floor",
                     "sub": "/static/TB/The.Birch.S01E02.Postpartum.1080p.FBW.WEB-DL.AAC2.0.H.264-FBW.zip"
-                }
+                },
+                "E03": {
+                    "magnet": "magnet:?xt=urn:btih:29ED5F91FB3ABD83CFDFFC28F94FA1C4E3A5C972",
+                    "ed2k": "ed2k://|file|白桦树.The.Birch.S01E03.中英字幕.WEBrip.720P-ANON.mp4|214754653|751BF34636F2625BE2A537A6CE5B43BE|h=XBVZGN37AN52ZSWQXQSSMF4CBFPWRQWZ|/",
+                    "bd": "https://pan.baidu.com/s/153d6wvGaQSygBGVGJ4JnJg",
+                    "bdcode": "2atr",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995676712906/detail/1#anchor_comment_floor",
+                    "sub": "/static/TB/The.Birch.S01E03.Blood.Money.1080p.FBW.WEB-DL.AAC2.0.H.264-FBW.zip"
+                },
             }
         }
     },
