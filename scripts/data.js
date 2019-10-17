@@ -911,12 +911,18 @@ var series = {
                     "sub": "/static/WWK/Why.Women.Kill.S01E03.1080p.CBS.WEB-DL.AAC2.0.x264-BTN.zip"
                 },
                 "E04": {
+                    "magnet": "magnet:?xt=urn:btih:2AB2E5BAF30A968B2CB0D1F3A2DCB6B48079FC05",
+                    "ed2k": "ed2k://|file|致命女人.Why.Women.Kill.S01E04.中英字幕.WEBrip.720P-ANON.mp4|536784461|0DB6AEAD66D8D8FE06C84C8AAB92247F|h=MLZM5VDTNSBCGJDLXRQ5QXZ676227DW5|/",
                     "sub": "/static/WWK/Why.Women.Kill.S01E04.You.Had.Me.at.Homicide.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zip"
                 },
                 "E05": {
+                    "magnet": "magnet:?xt=urn:btih:E7B93466B7A1068338E0E9849CD6C6792F93F190",
+                    "ed2k": "ed2k://|file|致命女人.Why.Women.Kill.S01E05.中英字幕.WEBrip.720P-ANON.mp4|610581718|A5DD53B46D1956895F2311B1471D25B2|h=VCED4QM7QALGUG2HJC56NNS4SCZALATM|/",
                     "sub": "/static/WWK/Why.Women.Kill.S01E05.1080p.CBS.WEB-DL.AAC2.0.x264-BTN.zip"
                 },
                 "E10": {
+                    "magnet": "magnet:?xt=urn:btih:A3448635040CD6BE5896076D08E353EA01F8C17D",
+                    "ed2k": "ed2k://|file|致命女人.Why.Women.Kill.S01E10.END.中英字幕.WEBrip.720P-ANON.mp4|667195696|AB3C510472C35CB8793FAC80B0AFD07D|h=WYMLLJ5WXRXTCONAZCS3SSYHKKHTN4TF|/",
                     "sub": "/static/WWK/why.women.kill.s01e10.720p.web.x264-tbs.zip"
                 }
             },
