@@ -910,6 +910,15 @@ var series = {
                     "diyidan": "https://www.diyidan.com/main/post/6295053995668876989/detail/1#anchor_comment_floor",
                     "sub": "/static/WWK/Why.Women.Kill.S01E03.1080p.CBS.WEB-DL.AAC2.0.x264-BTN.zip"
                 },
+                "E04": {
+                    "sub": "/static/WWK/Why.Women.Kill.S01E04.You.Had.Me.at.Homicide.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zip"
+                },
+                "E05": {
+                    "sub": "/static/WWK/Why.Women.Kill.S01E05.1080p.CBS.WEB-DL.AAC2.0.x264-BTN.zip"
+                },
+                "E10": {
+                    "sub": "/static/WWK/why.women.kill.s01e10.720p.web.x264-tbs.zip"
+                }
             },
             // "S02": {
             //     "E01": {
