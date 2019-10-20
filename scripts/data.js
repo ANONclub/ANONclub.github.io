@@ -1013,6 +1013,22 @@ var series = {
                     "diyidan": "https://www.diyidan.com/main/post/6295053995676712906/detail/1#anchor_comment_floor",
                     "sub": "/static/TB/The.Birch.S01E03.Blood.Money.1080p.FBW.WEB-DL.AAC2.0.H.264-FBW.zip"
                 },
+                "E04": {
+                    "magnet": "magnet:?xt=urn:btih:416FABCF7798125FB4653ED133613A8FBE375433",
+                    "ed2k": "ed2k://|file|白桦树.The.Birch.S01E04.中英字幕.WEBrip.720P-ANON.V2.mp4|181597931|4A710FB78AFB7C6D02C4A45A7421497C|h=ZGCMJS5QLT5KAPJ655XK66SGAEIX6TS5|/",
+                    "bd": "https://pan.baidu.com/s/1jaSy8RRtxKtRB4iey5qa_g&shfl=shareset",
+                    "bdcode": "5vbu",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995677697459/detail/1#anchor_comment_floor",
+                    "sub": "/static/TB/The.Birch.S01E04.Thee.Who.Breaks.Me.1080p.FBW.WEB-DL.AAC2.0.H.264-FBW.zip"
+                },
+                "E05": {
+                    "magnet": "magnet:?xt=urn:btih:F8BD53AF1CD1617CE54BA16B550BB5BB84EE1041",
+                    "ed2k": "ed2k://|file|白桦树.The.Birch.S01E05.中英字幕.WEBrip.720P-ANON.mp4|183162351|379464829046B71DECB1E7608E1FD4C5|h=FDJMZ2XQ7XX34OCORTRZDRRKNYM7U5KN|/",
+                    "bd": "https://pan.baidu.com/s/19-XzciJYyTfeEvTq68ydzQ&shfl=shareset",
+                    "bdcode": "dpw8",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995677698153/detail/1#anchor_comment_floor",
+                    "sub": "/static/TB/The.Birch.S01E05.Shes.Coming.To.Get.Us.1080p.FBW.WEB-DL.AAC2.0.H.264-FBW.zip"
+                },
             }
         }
     },
