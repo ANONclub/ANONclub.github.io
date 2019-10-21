@@ -1049,7 +1049,7 @@ var series = {
                     "ed2k": "ed2k://|file|现代爱情.Modern.Love.S01E03.中英字幕.WEBrip.720P-ANON.mp4|401414118|8C98D18E048094929EEF02915042B7D6|h=5ECPG73EYLN4EJBIUSO7ART5TDFTQ2VR|/",
                     "bd": "https://pan.baidu.com/s/102e-bVMu4OZOBmirGQWQNg&shfl=shareset",
                     "bdcode": "c3ei",
-                    "diyidan": "",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995677803650/detail/1#anchor_comment_floor",
                     "sub": "/static/ML/Modern.Love.S01E03.Take.Me.as.I.Am.Whoever.I.Am.720p.AMZN.WEB-DL.DDP5.1.H.264-TEPES.zip"
                 },
             }
