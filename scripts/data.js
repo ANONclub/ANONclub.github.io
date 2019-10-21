@@ -913,16 +913,25 @@ var series = {
                 "E04": {
                     "magnet": "magnet:?xt=urn:btih:2AB2E5BAF30A968B2CB0D1F3A2DCB6B48079FC05",
                     "ed2k": "ed2k://|file|致命女人.Why.Women.Kill.S01E04.中英字幕.WEBrip.720P-ANON.mp4|536784461|0DB6AEAD66D8D8FE06C84C8AAB92247F|h=MLZM5VDTNSBCGJDLXRQ5QXZ676227DW5|/",
+                    "bd": "https://pan.baidu.com/s/1TOC7YoWVnV7AKOdcc9TBgw&shfl=shareset",
+                    "bdcode": "ipib",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995677187123/detail/1#anchor_comment_floor",
                     "sub": "/static/WWK/Why.Women.Kill.S01E04.You.Had.Me.at.Homicide.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zip"
                 },
                 "E05": {
                     "magnet": "magnet:?xt=urn:btih:E7B93466B7A1068338E0E9849CD6C6792F93F190",
                     "ed2k": "ed2k://|file|致命女人.Why.Women.Kill.S01E05.中英字幕.WEBrip.720P-ANON.mp4|610581718|A5DD53B46D1956895F2311B1471D25B2|h=VCED4QM7QALGUG2HJC56NNS4SCZALATM|/",
+                    "bd": "https://pan.baidu.com/s/14pEFhyWI_ItiYfPoIXuSfg&shfl=shareset",
+                    "bdcode": "15cb",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995677188782/detail/1#anchor_comment_floor",
                     "sub": "/static/WWK/Why.Women.Kill.S01E05.1080p.CBS.WEB-DL.AAC2.0.x264-BTN.zip"
                 },
                 "E10": {
                     "magnet": "magnet:?xt=urn:btih:A3448635040CD6BE5896076D08E353EA01F8C17D",
                     "ed2k": "ed2k://|file|致命女人.Why.Women.Kill.S01E10.END.中英字幕.WEBrip.720P-ANON.mp4|667195696|AB3C510472C35CB8793FAC80B0AFD07D|h=WYMLLJ5WXRXTCONAZCS3SSYHKKHTN4TF|/",
+                    "bd": "https://pan.baidu.com/s/1G92gwp03sDc1bSXFBTd-Og&shfl=shareset",
+                    "bdcode": "65s4",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995677189402/detail/1#anchor_comment_floor",
                     "sub": "/static/WWK/why.women.kill.s01e10.720p.web.x264-tbs.zip"
                 }
             },
@@ -1028,6 +1037,19 @@ var series = {
                     "bdcode": "dpw8",
                     "diyidan": "https://www.diyidan.com/main/post/6295053995677698153/detail/1#anchor_comment_floor",
                     "sub": "/static/TB/The.Birch.S01E05.Shes.Coming.To.Get.Us.1080p.FBW.WEB-DL.AAC2.0.H.264-FBW.zip"
+                },
+            }
+        }
+    },
+    "ModernLove": {
+        "links": {
+            "S01": {
+                "E03": {
+                    "magnet": "magnet:?xt=urn:btih:584FEA0E2E66243277F736C151928568088C0A30",
+                    "ed2k": "ed2k://|file|现代爱情.Modern.Love.S01E03.中英字幕.WEBrip.720P-ANON.mp4|401414118|8C98D18E048094929EEF02915042B7D6|h=5ECPG73EYLN4EJBIUSO7ART5TDFTQ2VR|/",
+                    "bd": "https://pan.baidu.com/s/102e-bVMu4OZOBmirGQWQNg&shfl=shareset",
+                    "bdcode": "c3ei",
+                    "diyidan": "",
                 },
             }
         }
