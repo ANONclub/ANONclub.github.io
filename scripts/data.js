@@ -1050,6 +1050,7 @@ var series = {
                     "bd": "https://pan.baidu.com/s/102e-bVMu4OZOBmirGQWQNg&shfl=shareset",
                     "bdcode": "c3ei",
                     "diyidan": "",
+                    "sub": "/static/ML/Modern.Love.S01E03.Take.Me.as.I.Am.Whoever.I.Am.720p.AMZN.WEB-DL.DDP5.1.H.264-TEPES.zip"
                 },
             }
         }
