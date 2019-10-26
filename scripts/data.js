@@ -44,6 +44,13 @@ var series = {
                     "bdcode": "bipj",
                     "diyidan": "https://www.diyidan.com/main/post/6295053995613571984/detail/1#anchor_comment_floor"
                 },
+                "E06": {
+                    "magnet": "magnet:?xt=urn:btih:c9fb27d6bf1c2ca433aa6dc71e0890b87c721e31&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz",
+                    "ed2k": "ed2k://|file|%E5%85%AC%E5%85%B3.Flack.S01E06.END.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.HDTV.720P-ANON.mp4|586113819|def89dc06774783ec84a1bbebcddad89|h=ucizqgrceagijarmhggpjwjuftcrhyb6|/",
+                    "bd": "https://pan.baidu.com/s/1DEJ5M3_0Q-xEY52scNNh6Q",
+                    "bdcode": "hwjg",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995678824232/detail/1#anchor_comment_floor",
+                },
             },
         }
     },
