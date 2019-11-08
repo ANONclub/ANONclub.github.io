@@ -719,6 +719,25 @@ var series = {
                     "diyidan": "https://www.diyidan.com/main/post/6295053995681611580/detail/1#anchor_comment_floor",
                     "sub": "/static/TEOTFW/The.End.of.the.Fucking.World.S02E03.Episode.3.720p.NF.WEB-DL.DDP5.1.x264-KamiKaze.zip"
                 },
+                "E04": {
+                    "magnet": "magnet:?xt=urn:btih:2ad18ec2a1064b1c548859fe4ff315e9a30d738b&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz",
+                    "ed2k": "ed2k://|file|%E5%8E%BB%E4%BB%96%E5%A6%88%E7%9A%84%E4%B8%96%E7%95%8C.The.End.of.The.Fucking.World.S02E04.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.WEBrip.720P-ANON.mp4|286732257|cbb0eddb87ee2d6e74369ec244a8a922|h=n32vz2sua7zbblcwawcenrgfoycksvr2|/",
+                    "bd": "https://pan.baidu.com/s/1jSuvVp4AcFYlQdmCURKRfw",
+                    "bdcode": "wbyk",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995681640834/detail/1#anchor_comment_floor",
+                    "sub": "/static/TEOTFW/The.End.of.the.Fucking.World.S02E04.Episode.4.720p.NF.WEB-DL.DDP5.1.x264-KamiKaze.zip"
+                },
+                "E05": {
+                    "magnet": "magnet:?xt=urn:btih:b91b4d2c69f670db88aa4d24fd8582b3d6fc51f7&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tr.cili001.com:8070/announce&tr=http://tracker.trackerfix.com:80/announce&tr=udp://open.demonii.com:1337&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://p4p.arenabg.com:1337&tr=wss://tracker.openwebtorrent.com&tr=wss://tracker.btorrent.xyz&tr=wss://tracker.fastcast.nz",
+                    "ed2k": "ed2k://|file|%E5%8E%BB%E4%BB%96%E5%A6%88%E7%9A%84%E4%B8%96%E7%95%8C.The.End.of.The.Fucking.World.S02E05.%E4%B8%AD%E8%8B%B1%E5%AD%97%E5%B9%95.WEBrip.720P-ANON.mp4|256003112|5ef06c5e4f2e9b7da52e3a2fd07faa01|h=gjqgwngbpovspnkbo73k7b7szwzmsyd2|/",
+                    "bd": "https://pan.baidu.com/s/1nxY1zZpQtDko0d1w2g0s3A",
+                    "bdcode": "69ah",
+                    "diyidan": "https://www.diyidan.com/main/post/6295053995681669187/detail/1#anchor_comment_floor",
+                    "sub": "/static/TEOTFW/The.End.of.the.Fucking.World.S02E05.Episode.5.720p.NF.WEB-DL.DDP5.1.x264-KamiKaze.zip"
+                },
+                "E06": {
+                    "sub": "/static/TEOTFW/The.End.of.the.Fucking.World.S02E06.Episode.6.720p.NF.WEB-DL.DDP5.1.x264-KamiKaze.zip"
+                }
             }
         }
     },
